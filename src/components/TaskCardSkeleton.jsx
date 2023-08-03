@@ -5,7 +5,7 @@ const TaskCardSkeleton = () => {
   return (
     <div>
       <li className="p-4 border rounded-md animate-pulse">
-        {/* Background divs */}
+       
         <div className="h-6 w-1/3 bg-gray-600 mb-2"></div>
         <div className="h-4 w-2/3 bg-gray-600 mb-2"></div>
         <div className="h-4 w-1/2 bg-gray-600"></div>
